@@ -14,7 +14,7 @@ Project ini dibuat mengikuti konsep REST API dan cocok untuk testing menggunakan
 
 ## ⚙️ Instalasi
 ### 1️⃣ Clone / Extract Project
-git clone <repo-url>
+git clone https://github.com/HansRF/Tugas13_API.git
 cd Tugas13_API
 
 ### 2️⃣ Install Dependency
