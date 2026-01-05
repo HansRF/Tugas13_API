@@ -14,12 +14,12 @@ Project ini dibuat mengikuti konsep REST API dan cocok untuk testing menggunakan
 
 ## ⚙️ Instalasi
 ### 1️⃣ Clone / Extract Project
--git clone https://github.com/HansRF/Tugas13_API.git
--cd Tugas13_API
+- git clone https://github.com/HansRF/Tugas13_API.git
+- cd Tugas13_API
 
 ### 2️⃣ Install Dependency
--npm init -y
--npm install express sqlite3 bcryptjs jsonwebtoken
+- npm init -y
+- npm install express sqlite3 bcryptjs jsonwebtoken
 
 ### 3️⃣ Jalankan Server
 node index.js
