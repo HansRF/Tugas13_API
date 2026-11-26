@@ -12,7 +12,7 @@ Project ini dibuat mengikuti konsep REST API dan cocok untuk testing menggunakan
 - JSON Web Token (JWT)
 - Crypto (SHA256 hashing)
 
-## ⚙️ Instalasi
+## ⚙️ Cara Instalasi
 ### 1️⃣ Clone / Extract Project
 - git clone https://github.com/HansRF/Tugas13_API.git
 - cd Tugas13_API
